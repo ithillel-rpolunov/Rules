@@ -1,0 +1,7 @@
+# Dependencies
+node_modules/
+
+# Cypress artifacts (optional, depends if you want them in repo)
+/cypress/videos/
+/cypress/screenshots/
+/cypress/reports/

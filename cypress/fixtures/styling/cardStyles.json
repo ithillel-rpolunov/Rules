@@ -1,0 +1,57 @@
+{
+    "1600" : {
+        "width": 336,
+        "height": 508,
+        "header": {
+            "fontSize" : 16
+        }
+    },
+    "1200" : {
+        "width": 262,
+        "height": 508,
+        "header": {
+            "fontSize" : 16
+        },
+        "eyebrow": {
+            "fontSize" : 12
+        },
+        "title": {
+            "fontSize" : 24
+        }
+    },
+    "992" : {
+        "width": 444,
+        "height": 508,
+        "header": {
+            "fontSize" : 16
+        }
+    },
+    "576" : {
+        "width": 262,
+        "height": 508.6796875,
+        "header": {
+            "fontSize" : 16
+        }
+    },
+    "375" : {
+        "width": 280,
+        "height": 508.6796875,
+        "header": {
+            "fontSize" : 16
+        }
+    },
+    "common": {
+        "url" : "/iframe.html?globals=&args=&id=components-comparisoncards--default&viewMode=story",
+        "xPathSelector" : "//*[@id='storybook-root']/div/section/div/div/div[1]",
+        "headerGradient" : "linear-gradient(90deg, rgb(150, 12, 63) -4.4%, rgb(60, 16, 83) 100%)",
+        "header": {
+            "fontColor" : "rgb(255, 255, 255)"
+        },
+        "eyebrow": {
+            "fontColor" : "rgb(60, 16, 83)"
+        },
+        "title": {
+            "fontColor" : "rgb(0, 0, 0)"
+        }
+    }
+}
